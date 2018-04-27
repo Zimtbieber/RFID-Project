@@ -1,7 +1,7 @@
 #!/usr/bin/python3
 
 import sys
-from PyQt5 import QtCore, QtGui, QtWidgets #works for pyqt5
+from PyQt5 import QtCore, QtGui, QtWidgets
 from mainWindow import MainWindow
 
 def main():
